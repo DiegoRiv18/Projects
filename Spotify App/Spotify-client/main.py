@@ -10,8 +10,8 @@ import base64
 import time
 from configparser import ConfigParser
 
-client_id = "cc14b21f2a9b4e36afe72e9e2268251b"
-client_secret = "42abbb5568ad4dffb4ee3986e8765d08"
+client_id = ""
+client_secret = ""
 
 ###################################################################
 #
